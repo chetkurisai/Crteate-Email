@@ -1,0 +1,145 @@
+#div1{
+    border: 1px solid #dadcdf;
+    width: 530px;
+    height: 630px;
+    margin-left: 400px;
+}
+img{
+    width: 140px;
+    height: 80px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+}
+#p1{
+    margin-left: 220px;
+    font-size: 29px;
+    margin-top: -100px;
+}
+#p2{
+    margin-left: 190px;
+    margin-top: -17px;
+    font-size: 18px;
+}
+input[type=text]{
+    width: 380px;
+    height: 42px;
+    margin-left: 70px;
+    border-radius: 8px;
+    border: 1px solid #dadcdf;
+    border-color:blue;
+    margin-bottom: 10px;
+}
+#a1{
+    margin-top: -4px;
+    margin-left: 70px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #1a73e8;
+}
+#p3{
+    margin-left: 70px;
+    margin-top: 60px;
+    opacity: 0.8;
+    margin-bottom: 0px;
+}
+#a2{
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #1676f3;
+    margin-top: -10px;
+    margin-left: 70px;
+}
+.create ul{
+    margin-top: 90px;
+    width: px;
+}
+.create ul li{
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.create ul li a{
+    text-decoration: none;
+    color:#1676f3;
+    margin-left: 14px;
+    background-color: white;
+    padding: 7px;
+    border-radius: 4px;
+}
+.create ul li a:hover{
+    background-color:#1676f3;
+    color: white;
+}
+.sub ul li{
+    float: none;
+    font-size: 15px;
+}
+.sub ul li a{
+    background-color:white;
+    color: dimgray;
+    margin-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sub ul{
+    margin-top: 20px;
+}
+.sub{
+    display: none;
+}
+.create ul li:hover .sub{
+    display: block;
+    position: absolute;
+    margin: 3px;   
+
+}
+button{
+    margin-left: 350px;
+    background-color:#1676f3;
+    color: white;
+    font-size: 15px;
+    width: 80px;
+    border: 1px solid #1676f3;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+button:hover{
+    cursor: pointer;
+    opacity: o.9;
+}
+#div2{
+    margin-left: 380px;
+}
+label{
+    font-weight: 18px;
+    opacity: 0.9;
+}
+select{
+    border: 1px solid white;
+}
+ul{
+    list-style-type: none;
+    margin-top: 20px;
+}
+li{
+    float: left;
+
+}
+#help{
+    text-decoration: none;
+    margin-left: 146px;
+}
+#priv{
+    text-decoration: none;
+    margin-left: 30px;
+}
+#terms{
+    text-decoration: none;
+    margin-left: 30px;
+}
+#a4{
+    text-decoration: none;
+    color: #523737;
+}
